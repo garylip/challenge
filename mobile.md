@@ -125,14 +125,13 @@ Production ready solution that you are proud of.
   * Do not copy-paste any part of this file (task, API documentation, etc.)
   * This is needed to prevent other candidates from finding your solution
 * For private repos access:
-  * Github: Please add [techchallenge-lalamove](https://github.com/techchallenge-lalamove) as project collaborator
+  * Github: Please add [garylip](https://github.com/garylip) and [kennethtsang](https://github.com/kennethtsang) as project collaborator
   * Bitbucket: Please give read access to `techchallenge@lalamove.com` ([lalachallenge](https://bitbucket.org/lalachallenge/))
 
 Once you have shared the repository, please drop us an email (see the email addresses below) and specify your name, position you are applying for and also the repository link. Otherwise we will not start reviewing your submission.
 
 **Questions? We love to answer:**
 
-* <techchallenge+ios@lalamove.com> (iOS Engineer)
-* <techchallenge+android@lalamove.com> (Android Engineer)
+* <garylip@lalamove.com> & <kenneth.tsang@lalamove.com> 
 
 Please state clearly your name, platform (iOS/Android) and the position yor are applying for in your email.
