@@ -9,9 +9,9 @@ As a user I want to be able to see a list of my deliveries, including the receiv
 ### Get list of deliveries
 
 * **Protocol** `HTTPS`
-* **Hostname** `mock-api-mobile.dev.lalamove.com`
+* **Hostname** `6285f87796bccbf32d6c0e6a.mockapi.io`
 * **Method** `GET`
-* **Endpoint** `/v2/deliveries`
+* **Endpoint** `/deliveries`
 * **Query String Parameters**
   * `offset`
     * Description: Starting index.
@@ -79,10 +79,11 @@ Production ready solution that you are proud of.
 
 ## Technical Requirements
 
+* Best architecture must be applied
 * Source code must be stored in a Git repository (you can send us GitHub or BitBucket repo link)
   * We only accept GitHub and BitBucket repositories, other Git repo hosting services or ZIP archives are not accepted
 * App should cache deliveries (either use local database or local persistent storage)
-* Should implement pagination, retrieve up to 20 items per page
+* Should implement pagination, retrieve up to 5 items per page and at most 5 pages. Simply reuse the same API provided and assume the response has new sets of data.
 * Code should be testable
 * Candidates are free to use any libraries
 
